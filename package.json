@@ -7,7 +7,7 @@
     "fs-walk": "0.0.1",
     "helmet": "^3.21.2",
     "jsonfile": "^4.0.0",
-    "mongodb": "^2.2.36",
+    "mongodb": "^3.1.13",
     "passport": "^0.3.2",
     "primus": "^7.3.4",
     "prompt": "^1.0.0",
